@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "email": "arman@arman",
+      "password": "$2a$10$6RhYQm2W7GJIftcDwvNbh.WLUd7ePK62gdljR/CuCQvm0K1RezkhW",
+      "firstname": "Arman",
+      "lastname": "Avetissian",
+      "role": "superadmin",
+      "id": 1
+    }
+  ],
+  "projects": [
+    {
+      "title": "Puissance 4",
+      "description": "This is a game.",
+      "image": "puissance4.jpg",
+      "url": "https://puissanceq.netlify.app/",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Fake Casino Game",
+      "description": "This is a fake casino game.",
+      "image": "mines.jpg",
+      "url": "https://nerwii.com/MinesPredictor/index.html"
+    },
+    {
+      "id": 3,
+      "title": "Rock Paper Scissors",
+      "description": "This is a game.",
+      "image": "PPC.jpg",
+      "url": "https://ppc5.netlify.app/"
+    },
+    {
+      "id": 4,
+      "title": "Bot Discord",
+      "description": "This is a game.",
+      "image": "discord.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Script Fivem",
+      "description": "These are somes fivem scripts in lua, esx, ...",
+      "image": "fivem.png"
+    }
+  ]
+}
